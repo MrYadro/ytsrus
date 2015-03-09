@@ -2,9 +2,9 @@
 
 return array(
     "home" => "На главную",
-    "browse_movies" => "Обзор фильмов",
+    "browse_movies" => "Фильмы",
     "browse" => "Обзор",
-    "requests" => "Запросы",
+    "requests" => "Заказать",
     "chat" => "Чат",
     "vip" => "VIP",
     "profile" => "Профиль",
@@ -19,7 +19,7 @@ return array(
     "faq" => "ЧаВо",
     "blog" => "Блог",
     "bookmarks" => "Закладки",
-    "suggestions" => "Следует посмотреть",
+    "suggestions" => "Советуем посмотреть",
     "follow_on_facebook" => "Читать на Facebook",
     "follow_on_twitter" => "Читать на Twitter",
     

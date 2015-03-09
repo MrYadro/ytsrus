@@ -50,7 +50,7 @@ return array(
     "comment_already_made" => "Комментарий уже сделан",
     "comment_saved" => "Комментарий сохранен",
     "comment_is_invalid" => "Неподходящий комментарий",
-    "leave_a_comment" => "Оставить комментарий",
+    "leave_a_comment" => "Написать комментарий",
     "login_to_leave_a_comment" => "Войдите чтобы оставить комментарий",
     "no_movies_found" => "Фильмы не найдены",
     "no_search_results_found" => "Нет результатов поиска",
@@ -70,6 +70,6 @@ return array(
     "movies_found_count" => ":number фильмов найдено",
     "date_downloaded" => "Дата загрузки",
     "removed_by_dmca_request" => "Удалено по запросу правообладателя",
-    "read_more_imdb_reviews" => "Прочитать рецензии на IMDb",
-    "download_times" => "Загружено :number раз", 
+    "read_more_imdb_reviews" => "Остальные рецензии на IMDb",
+    "download_times" => "Скачен :number раз", 
 );

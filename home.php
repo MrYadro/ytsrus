@@ -11,6 +11,6 @@ return array(
     "latest_movie_torrents" => "Последние загруженные",
     "browse_all" => "Просмотр всех",
     "upcoming_movies" => "Скоро будут доступны",
-    "request_a_movie" => "Запросить фильм",
+    "request_a_movie" => "Заказать фильм",
     
 );

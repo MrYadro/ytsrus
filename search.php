@@ -21,8 +21,8 @@ return array(
     "year" => "Год",
     "rating" => "Рейтинг",
     "likes" => "Понравилось",
-    "alphabetical" => "По алфавиту",
-    "downloads" => "По загрузкам",
+    "alphabetical" => "Алфавиту",
+    "downloads" => "Скачиваниям",
     
     "action" => "Экшн",
     "adventure" => "Приключения",
