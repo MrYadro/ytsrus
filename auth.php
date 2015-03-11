@@ -4,7 +4,7 @@ return array(
     "user_login" => "Логин",
     "register_now" => "Зарегистрироваться",
     "register_an_account" => "Зарегистрировать аккаунт",
-    "user_login_meta_description" => "Войдите в ваш YTS аккаунт и начните загружать фильмы YIFY с малым размером",
+    "user_login_meta_description" => "Войдите в ваш YTS аккаунт и начните скачивать фильмы YIFY с малым размером",
     "user_register_meta_description" => "Регистрация YTS аккаунта занимает считанные секунды и предоставляет полный доступ ко всему функционалу сайта.",
     "username_or_email" => "Имя пользователя или email",
     "username" => "Имя пользователя",
