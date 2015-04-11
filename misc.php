@@ -1,7 +1,7 @@
 <?php
 
 return array(
-    "optional" => "По желанию",
+    "optional" => "необязательно",
     "loading_please_wait" => "Загрузка, пожалуйста подождите",
     "kind_regards" => "С уважением",
     "yts_team" => "Команда YTS",

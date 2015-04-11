@@ -24,7 +24,7 @@ return array(
     "alphabetical" => "Алфавиту",
     "downloads" => "Скачиваниям",
     
-    "action" => "Экшн",
+    "action" => "Боевик",
     "adventure" => "Приключения",
     "animation" => "Мультфильм",
     "biography" => "Биография",

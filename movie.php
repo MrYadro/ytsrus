@@ -70,6 +70,6 @@ return array(
     "movies_found_count" => ":number фильмов найдено",
     "date_downloaded" => "Дата загрузки",
     "removed_by_dmca_request" => "Удалено по запросу правообладателя",
-    "read_more_imdb_reviews" => "Остальные рецензии на IMDb",
+    "read_more_imdb_reviews" => "Другие рецензии на IMDb",
     "download_times" => "Скачен :number раз", 
 );
