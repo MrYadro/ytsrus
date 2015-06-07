@@ -39,6 +39,7 @@ return array(
     "framerate" => "Частота кадров",
     "runtime" => "Продолжительность",
     "synopsis" => "Описание",
+    "parental_guide" => "Подробнее о рейтинге",
     "peers_and_seeds" => "Пиры и сиды",
     "movie_does_not_exist" => "Фильм не существует",
     "comments" => "Комментариев",

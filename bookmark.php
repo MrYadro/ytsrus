@@ -5,7 +5,6 @@ return array(
     "movie_already_bookmarked" => "Фильм уже был добавлен в закладки",
     "movie_is_now_bookmarked" => "Фильм добавлен в закладки",
     "already_bookmarked" => "Уже в закладках",
-    "can_not_have_more_than_20" => "У вас не может быть более 20 закладок",
     "movie_was_never_bookmarked" => "Фильм не был в закладках",
     "bookmark_has_been_removed" => "Фильм удален из закладок",
     "your_bookmarks" => "Ваши закладки",
